@@ -8,7 +8,7 @@ on:
         docker_image:
           description: 'The Docker image to scan'
           required: true
-          default: 'neurodebian:nd120'
+          default: 'eggdrop:1.9.3rc1'
 
 # env:
 #   REGISTRY: ghcr.io
