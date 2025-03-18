@@ -8,7 +8,7 @@ on:
         docker_image:
           description: 'The Docker image to scan'
           required: true
-          default: 'neurodebian:bookworm'
+          default: 'neurodebian:nd120'
 
 # env:
 #   REGISTRY: ghcr.io
